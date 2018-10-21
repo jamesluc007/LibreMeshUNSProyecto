@@ -1,0 +1,133 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{IEEE802WIKIPEDIA}{article}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={IEEE},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{IEEE 802.11s}
+    \verb{url}
+    \verb https://es.wikipedia.org/wiki/IEEE_802.11s
+    \endverb
+    \field{journaltitle}{IEEE Standars Association}
+    \field{month}{09}
+    \field{year}{2011}
+  \endentry
+
+  \entry{PAPERcitadoPORalthea}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FPA}{%
+         family={Frangoudis},
+         familyi={F\bibinitperiod},
+         given={Pantelis\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PGC}{%
+         family={Polyzos},
+         familyi={P\bibinitperiod},
+         given={George\bibnamedelima C.},
+         giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FPAPGC1}
+    \strng{fullhash}{FPAPGC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Low-cost wireless LAN equipment operating in unlicensed spectrum has
+  revolutionized local area communications, introducing novel schemes for open
+  wireless connectivity and even new business models. The ease of deployment of
+  Wi-Fi has made it ubiquitous in densely populated urban areas, and it was
+  just a matter of time before wireless communities emerged. Using inexpensive
+  wireless technology to communicate, autonomous wireless internetworks have
+  been built, offering a variety of broadband services. Based on our own
+  experience participating in one of the largest wireless communities
+  worldwide, the Athens Wireless Metropolitan Network, we attempt to explain
+  their structure and mechanisms, study the reasons for their emergence and
+  growth, and predict their future evolution. We expect that future wireless
+  communities will be oriented toward providing broadband access to nomadic
+  users. To this end, we have proposed that wireless network access be shared
+  in a peer-to-peer, reciprocal manner. Thus, ubiquitous broadband Internet
+  access can be achieved at a low cost, at least in metropolitan areas where
+  there is abundant wireless coverage, providing an inexpensive alternative to
+  broadband cellular services%
+    }
+    \field{title}{Wireless Community Networks: An Alternative Approach for
+  Nomadic Broadband Network Access}
+    \verb{url}
+    \verb https://www.cs.columbia.edu/~vpk/papers/wcn.commag11.pdf
+    \endverb
+    \field{journaltitle}{IEEE}
+    \field{month}{05}
+    \field{year}{2011}
+  \endentry
+
+  \entry{PAPERrealWORLDperformance}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MAJCPWBH}{%
+         family={M.\bibnamedelima Abolhasan},
+         familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+         suffix={B.\bibnamedelima Hagelstein},
+         suffixi={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+         given={J.\bibnamedelima C.-P.\bibnamedelima Wang},
+         giveni={J\bibinitperiod\bibinitdelim
+  C\bibinitperiod-P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MABHJCPW1}
+    \strng{fullhash}{MABHJCPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Real-World Performance of Current Proactive Multi-hop Mesh
+  Protocols}
+    \field{journaltitle}{IEEE APCC}
+    \field{month}{10}
+    \field{year}{2009}
+  \endentry
+
+  \entry{PAPERbatman}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DJCANN}{%
+         family={David\bibnamedelima Johnson},
+         familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+         suffix={Ntsibane\bibnamedelima Ntlatlapa},
+         suffixi={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Corinna\bibnamedelima Aichele},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJNNCA1}
+    \strng{fullhash}{DJNNCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A simple pragmatic approach to mesh routing using BATMAN}
+    \field{journaltitle}{2nd IFIP International Symposium on Wireless
+  Communications and Information Technology in Developing Countries}
+    \field{month}{10}
+    \field{year}{2008}
+  \endentry
+\enddatalist
+\endinput
